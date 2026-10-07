@@ -27,7 +27,7 @@ https://www.eclipse.org/downloads/
 
 The source code is provided as a template when signing for the Classroom50 assignment. The link is in the PDF documentation.
 
-The template code for this assignment is also published at [LUH-VSS/ds-project-2026](https://github.com/LUH-VSS/ds-project-2025). Clone it with:
+The template code for this assignment is also published at [LUH-VSS/ds-project-2025](https://github.com/LUH-VSS/ds-project-2025). Clone it with:
 
 ```bash
 git clone git@github.com:LUH-VSS/ds-project-2025.git
